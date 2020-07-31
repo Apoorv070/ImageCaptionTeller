@@ -1,5 +1,5 @@
 # Generating Captions for the Images
-## Intro
+## Introduction
 Humans can understand an image easily but computers are far behind from humans in understanding the context by seeing an image. However, technology is evolving and various     m  methods have been proposed through which we can automatically generate captions for the image. 
 ## GOAL: 
  -> **input** : Image ----------- **output** : caption generate from the given image 
