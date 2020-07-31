@@ -19,4 +19,4 @@ Humans can understand an image easily but computers are far behind from humans i
 ## Dataset 
 - I used Flickr8k Dataset to train my model if we use Flickr30k Dataset then we can get even more accuracy 
 - Flickr 8k Dataset is already divided into 6000 images for training and 1000 images for validation and 1000 for testing 
-link for the Data set :-> https://www.kaggle.com/shadabhussain/flickr8k
+- link for the Data set :-> https://www.kaggle.com/shadabhussain/flickr8k
