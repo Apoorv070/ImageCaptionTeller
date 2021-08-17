@@ -22,3 +22,6 @@ Humans can understand an image easily but computers are far behind from humans i
 - link for the Data set :-> https://www.kaggle.com/shadabhussain/flickr8k
 - Glove.6b.50.d used for word embeddings which is pretrained netwok containing approximately 6billion words
 - link https://www.kaggle.com/watts2/glove6b50dtxt 
+
+## Results obtained:
+![img](https://github.com/Apoorv070/Image_Caption_Generator/blob/master/output.PNG)
