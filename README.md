@@ -40,10 +40,10 @@ Humans can understand an image easily but computers are far behind from humans i
 <br/>
 ![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/1Dataset.PNG)
 <br/>
-![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/2understanddataset.PNG)
-![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/3dataclean.PNG)
-![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/4loaddataset.PNG)
-![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/5datapreprocessing.PNG)
+![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/2understanddataset.PNG)\
+![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/3dataclean.PNG)\
+![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/4loaddataset.PNG)&nbsp;
+![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/5datapreprocessing.PNG)&nbsp;
 ![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/6Imagefeatureextraction.PNG)
 ![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/7imageprocessing.PNG)
 ![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/8captionprocessing.PNG)
