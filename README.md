@@ -37,7 +37,11 @@ Humans can understand an image easily but computers are far behind from humans i
 
 ## PipeLine
 ![img](https://github.com/Apoorv070/Image_Caption_Generator/blob/master/pipeline.PNG)
-
+![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/1Dataset.PNG)
+![img](https://github.com/Apoorv070/Image_Caption_Generator/blob/master/pipeline.PNG)
+![img](https://github.com/Apoorv070/Image_Caption_Generator/blob/master/pipeline.PNG)
+![img](https://github.com/Apoorv070/Image_Caption_Generator/blob/master/pipeline.PNG)
+![img](https://github.com/Apoorv070/Image_Caption_Generator/blob/master/pipeline.PNG)
 
 ## Results obtained:
 <img src="https://github.com/Apoorv070/Image_Caption_Generator/blob/master/output1.PNG" width="1000" height="500">
