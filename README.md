@@ -37,11 +37,20 @@ Humans can understand an image easily but computers are far behind from humans i
 
 ## PipeLine
 ![img](https://github.com/Apoorv070/Image_Caption_Generator/blob/master/pipeline.PNG)
+<br/>
 ![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/1Dataset.PNG)
-![img](https://github.com/Apoorv070/Image_Caption_Generator/blob/master/pipeline.PNG)
-![img](https://github.com/Apoorv070/Image_Caption_Generator/blob/master/pipeline.PNG)
-![img](https://github.com/Apoorv070/Image_Caption_Generator/blob/master/pipeline.PNG)
-![img](https://github.com/Apoorv070/Image_Caption_Generator/blob/master/pipeline.PNG)
+<br/>
+![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/2understanddataset.PNG)
+![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/3dataclean.PNG)
+![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/4loaddataset.PNG)
+![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/5datapreprocessing.PNG)
+![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/6Imagefeatureextraction.PNG)
+![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/7imageprocessing.PNG)
+![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/8captionprocessing.PNG)
+![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/9.PNG)
+![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/10.PNG)
+![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/11.PNG)
+![img](https://github.com/Apoorv070/ImageCaptionTeller/blob/master/12.PNG)
 
 ## Results obtained:
 <img src="https://github.com/Apoorv070/Image_Caption_Generator/blob/master/output1.PNG" width="1000" height="500">
