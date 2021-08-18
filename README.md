@@ -54,3 +54,10 @@ Humans can understand an image easily but computers are far behind from humans i
 
 ## Results obtained:
 <img src="https://github.com/Apoorv070/Image_Caption_Generator/blob/master/output1.PNG" width="1000" height="500">
+
+
+## Demo Video
+
+
+https://user-images.githubusercontent.com/47479228/129853842-0fe7276e-aeeb-422b-bb74-de719c5bc990.mp4
+
